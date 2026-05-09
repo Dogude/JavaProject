@@ -3,10 +3,10 @@
 <img width="220" height="67" alt="image" src="https://github.com/user-attachments/assets/45a17a7f-ce61-4f10-a3cd-76272508f364" />
 
 # Output From Task 2(REST API)
-
+## running localhost:8080:console
 <img width="543" height="432" alt="image" src="https://github.com/user-attachments/assets/393288d3-07a1-459f-98eb-6137073ba8cb" />
 
-## running localhost:8080:console
+
 
 
 
