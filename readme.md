@@ -5,6 +5,8 @@
 # Output From Task 2(REST API)
 ## running localhost:8080:console
 <img width="543" height="432" alt="image" src="https://github.com/user-attachments/assets/393288d3-07a1-459f-98eb-6137073ba8cb" />
+## connecting jdbc:mem:testdb
+<img width="1907" height="872" alt="image" src="https://github.com/user-attachments/assets/902b0403-f36c-4957-a1d4-3ac22d8fe580" />
 
 
 
