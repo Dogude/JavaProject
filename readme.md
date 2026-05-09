@@ -12,7 +12,7 @@
 
 <img width="1906" height="904" alt="image" src="https://github.com/user-attachments/assets/227a1512-a483-4183-9ef2-33f1bcfe0969" />
 
-## This class already inherits from all implementations from JpaRepository<Product, Long>
+## This interface already inherits from all implementations from JpaRepository<Product, Long>
 ## that means we dont have to implement methods
 <img width="766" height="394" alt="image" src="https://github.com/user-attachments/assets/b1ab920c-4b05-4b9a-92c1-23fb79b8b22c" />
 
