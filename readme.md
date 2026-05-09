@@ -19,5 +19,8 @@
 <img width="563" height="386" alt="image" src="https://github.com/user-attachments/assets/857e377b-ea54-4edf-b62d-69d01608dfb6" />
 <img width="717" height="647" alt="image" src="https://github.com/user-attachments/assets/710e3d2b-3eb3-4862-ad2f-4720183062ed" />
 
+## Deleting ID = 100 
+<img width="973" height="505" alt="image" src="https://github.com/user-attachments/assets/f0315736-3ebb-49d5-a9ac-75a7064517f3" />
+<img width="701" height="531" alt="image" src="https://github.com/user-attachments/assets/09b0ae9b-f153-4a0d-8d81-7e02a91497a5" />
 
 
